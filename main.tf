@@ -17,7 +17,7 @@ sudo systemctl start nginx
 EOF
 
     tags = {
-      Name = "TF_VM_Jenkins"
+      Name = "TF_VM_webhook"
     }
   
 }
